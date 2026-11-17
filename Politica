@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Política de Privacidade | CT Profissional</title>
+<style>
+:root{--bg:#ffffff;--fg:#1f2933;--muted:#5b6770;--line:#e2e6ea;--accent:#0b4f8a;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#14181c;--fg:#e6e9ec;--muted:#9aa5ae;--line:#2a3139;--accent:#6db3f2}}
+:root[data-theme="dark"]{--bg:#14181c;--fg:#e6e9ec;--muted:#9aa5ae;--line:#2a3139;--accent:#6db3f2}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.65 Georgia,"Times New Roman",serif}
+main{max-width:760px;margin:0 auto;padding:32px 20px 64px}
+h1{font-size:1.8rem;line-height:1.25;margin:0 0 4px;color:var(--accent)}
+h2{font-size:1.15rem;margin:32px 0 8px;padding-top:16px;border-top:1px solid var(--line)}
+p,li{margin:8px 0}
+.meta{color:var(--muted);font-size:.9rem}
+a{color:var(--accent)}
+</style>
+</head>
+<body>
+<main>
+<h1>Política de Privacidade</h1>
+<p class="meta">CT Profissional, Unidade Irecê. Última atualização: 17 de novembro de 2026.</p>
+
+<p>Esta Política de Privacidade descreve como a CT Profissional trata os dados pessoais de alunos, interessados e clientes que entram em contato conosco, inclusive por meio do WhatsApp, em conformidade com a Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018, LGPD).</p>
+
+<h2>1. Controlador dos dados</h2>
+<p>CT Profissional, Unidade Irecê, filial da CT Profissional de Juazeiro, Bahia.<br>
+CNPJ: 57.506.069/0001-09<br>
+Endereço: Avenida Professor Jorge Rodrigues, s/n, Asa Sul, Irecê, Bahia.<br>
+E-mail para assuntos de privacidade: <a href="mailto:amd.irece@ctprofissional.com.br">amd.irece@ctprofissional.com.br</a></p>
+
+<h2>2. Dados que coletamos</h2>
+<p>Podemos tratar os seguintes dados, conforme a interação do titular conosco:</p>
+<ul>
+<li>nome e número de telefone (WhatsApp);</li>
+<li>conteúdo das mensagens enviadas e recebidas no atendimento;</li>
+<li>dados de matrícula, como CPF, RG, data de nascimento, e-mail e endereço, quando o titular contrata um curso;</li>
+<li>informações sobre o curso de interesse, turma, frequência e emissão de certificados.</li>
+</ul>
+
+<h2>3. Finalidades do tratamento</h2>
+<ul>
+<li>responder dúvidas e prestar atendimento sobre cursos e treinamentos;</li>
+<li>realizar matrículas, controlar frequência e emitir certificados;</li>
+<li>enviar informações sobre turmas, valores, datas e condições de pagamento;</li>
+<li>cumprir obrigações legais e regulatórias, inclusive de entidades certificadoras;</li>
+<li>aprimorar a qualidade do atendimento.</li>
+</ul>
+
+<h2>4. Bases legais</h2>
+<p>O tratamento fundamenta-se, conforme o caso, na execução de contrato ou de procedimentos preliminares a ele, no cumprimento de obrigação legal ou regulatória, no legítimo interesse do controlador e no consentimento do titular, nos termos do art. 7º da LGPD.</p>
+
+<h2>5. Atendimento automatizado</h2>
+<p>O atendimento pelo WhatsApp pode contar com recursos de automação e inteligência artificial para responder mensagens. O titular pode solicitar, a qualquer momento, o atendimento por uma pessoa da nossa equipe.</p>
+
+<h2>6. Compartilhamento de dados</h2>
+<p>Os dados poderão ser compartilhados apenas quando necessário, com:</p>
+<ul>
+<li>a Meta Platforms, responsável pela plataforma WhatsApp Business, cujo tratamento segue as políticas próprias da empresa;</li>
+<li>fornecedores de tecnologia, hospedagem e automação que nos prestam serviços e atuam sob nossas instruções;</li>
+<li>instituições certificadoras e órgãos públicos, quando exigido por lei ou por norma aplicável ao curso.</li>
+</ul>
+<p>Não vendemos dados pessoais a terceiros.</p>
+
+<h2>7. Armazenamento e segurança</h2>
+<p>Adotamos medidas técnicas e administrativas razoáveis para proteger os dados contra acessos não autorizados, perda, alteração ou divulgação indevida. Os dados são mantidos pelo tempo necessário ao cumprimento das finalidades descritas e das obrigações legais, sendo eliminados ou anonimizados após esse período.</p>
+
+<h2>8. Direitos do titular</h2>
+<p>Nos termos do art. 18 da LGPD, o titular pode solicitar a confirmação do tratamento, o acesso, a correção, a anonimização, o bloqueio ou a eliminação de dados, a portabilidade, a informação sobre compartilhamentos e a revogação do consentimento.</p>
+
+<h2>9. Exclusão de dados</h2>
+<p>Para solicitar a exclusão dos seus dados, envie mensagem ao e-mail amd.irece@ctprofissional.com.br, informando o nome completo e o número de telefone utilizado no contato. A solicitação será atendida em prazo razoável, ressalvadas as hipóteses em que a lei exija a manutenção das informações.</p>
+
+<h2>10. Alterações desta política</h2>
+<p>Esta política poderá ser atualizada a qualquer tempo. A versão vigente estará sempre disponível nesta página, com a data da última atualização.</p>
+
+<h2>11. Contato</h2>
+<p>Dúvidas sobre esta política ou sobre o tratamento de dados pessoais podem ser enviadas para amd.irece@ctprofissional.com.br.</p>
+</main>
+</body>
+</html>
